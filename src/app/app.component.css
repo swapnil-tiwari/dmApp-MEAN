@@ -1,0 +1,16 @@
+.centered-div
+{
+    max-width: fit-content;
+    padding:10px;
+    margin: auto;
+}
+.notification-bar
+{
+    width:fit-content;
+     margin-left: auto;
+}
+.upper-bar
+{
+    display: grid;
+    grid-auto-flow: column;
+}
